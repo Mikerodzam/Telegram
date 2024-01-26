@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "/workspaces/Telegram/TMessagesProj/jni/boringssl/third_party/googletest",
+    "workbench.cloudChanges.autoResume": "onReload"
+}
